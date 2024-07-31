@@ -14,5 +14,3 @@ python3 Node.py
 It prints out the log of transactions starting from the initial state of each node. All the transactions along with the state of all the nodes is printed upon addition of a new block to the blockchain.
 
 The code runs infinitely as a bitcoin system is supposed to do. Random transactions would keep taking place and the nodes winning hash puzzle will keep on adding blocks to the block chain. To view the logs after addition of 1-2 blocks in the block chain, force quit the program "Ctrl + C" after 2 minutes of execution.
-
-Refer to REPORT.pdf for detailed implementation.
